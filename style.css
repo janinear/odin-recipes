@@ -1,3 +1,32 @@
 body {
     font-family: "Lucida Console", "Courier New", Courier, monospace;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    background-color: navy;
+    color: lightskyblue;
+    padding: 24px;
+    outline: 2px solid lightskyblue;
+    margin: 12px 24px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    outline: 2px solid white;
+}
+
+.card {
+    background-color: whitesmoke;
+    color: black;
+    padding: 8px 24px;
+    outline: 2px solid black;
+    margin: 12px 24px;
+}
+
+button {
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    padding: 4px 4px;
 }
